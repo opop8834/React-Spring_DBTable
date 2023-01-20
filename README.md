@@ -1,6 +1,7 @@
 # React-Spring_DBTable
 
-spring boot 2.7.6
+spring boot 2.7.6,
+
 java 11
 
 ### 실행방법
