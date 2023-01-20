@@ -1,0 +1,15 @@
+table {
+    margin: 100px;
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th,
+  td {
+    border: 1px solid black;
+  }
+
+.likeButton{
+  width : 100px;
+  height: 100px;
+  background-color: #f5d682;
+}
