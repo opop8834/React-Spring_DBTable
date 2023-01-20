@@ -10,6 +10,7 @@ java 8
   ex) root
 - main/java/com/DB/DBTable/company/Company.java 에서 자신의 mysql database에 맞게 url, user을 변경    
   ex) mydb, root
+- mysql Table 구축할 때 COMPANY_schema, COMPANY_tuples 기준으로 Create
 
 프론트엔드
 - cd frontend
