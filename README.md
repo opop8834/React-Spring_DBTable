@@ -2,7 +2,7 @@
 
 spring boot 2.7.6
 
-java 11
+java 8
 
 ### 실행방법
 백엔드
