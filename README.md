@@ -1,5 +1,8 @@
 # React-Spring_DBTable
 
+spring boot 2.7.6
+java 11
+
 ### 실행방법
 백엔드
 - main/java/com/DB/DBTable/Password.java 에서 password 수정  
