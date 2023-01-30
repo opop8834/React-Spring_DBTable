@@ -38,8 +38,8 @@ React, Spring 실행
 <img src ="blob:https://velog.io/76c15271-cb9e-429d-94a3-be96272ad2e9">
 >
 출력 화면
-`Ssn`은 기본적으로 포함되게 하였다.
-찾아가기 열의 클릭 버튼을 누르면 `Ssn`을 기준으로 
+Ssn은 기본적으로 포함되게 하였다.
+찾아가기 열의 클릭 버튼을 누르면 Ssn을 기준으로 
 전체 테이블에서 해당 행으로 화면 이동한다.
 
 > ### 3. 삭제하기
@@ -48,7 +48,7 @@ React, Spring 실행
 >
 위에서 추가했던 Test 직원이 삭제된 모습
 맨 오른쪽 열의 삭제버튼을 누르면 해당 행의 데이터가 삭제가 된다.
-`PK`인 Ssn을 기준으로 delete 쿼리문을 실행한다.
+PK인 Ssn을 기준으로 delete 쿼리문을 실행한다.
 
 > ### 4. 수정하기
 <img src ="https://velog.velcdn.com/images/opop8834/post/aac5748d-b00a-456b-adfd-943711a6e76b/image.png">
@@ -61,17 +61,17 @@ React, Spring 실행
 >
 <img src ="https://velog.velcdn.com/images/opop8834/post/01adaffa-398d-47f4-a111-ffc5487baade/image.png">
 >
-**`John`을 `Test`로 바꾼 모습**
+John을 Test로 바꾼 모습
 >
-**이제 저장버튼을 누르고 수정 내역 반영 버튼을 누르면 Update 쿼리가 실행되고 Database에 반영이 된다.  **
+이제 저장버튼을 누르고 수정 내역 반영 버튼을 누르면 Update 쿼리가 실행되고 Database에 반영이 된다.
 >
-**단 여러 데이터를 수정할 때 한번에 실행되지 않고 각각의 Update쿼리문이 실행되서 많은 비용 발생 우려**
+단 여러 데이터를 수정할 때 한번에 실행되지 않고 각각의 Update쿼리문이 실행되서 많은 비용 발생 우려
 
 <img src ="https://velog.velcdn.com/images/opop8834/post/49aba13e-a671-4c6c-b05e-5c56eb0010dd/image.png">
 
 <img src ="https://velog.velcdn.com/images/opop8834/post/8b3a99bd-631b-4b90-9ce2-402e85c6c4a5/image.png">
 
-**성공적으로 Update 된 모습**
+성공적으로 Update 된 모습
 
 > ###  프로젝트 성과 일지
 **`22년 12월 19일` spring 공부 시작
