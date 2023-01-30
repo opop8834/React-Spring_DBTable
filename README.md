@@ -74,9 +74,9 @@ John을 Test로 바꾼 모습
 성공적으로 Update 된 모습
 
 > ###  프로젝트 성과 일지
-**`22년 12월 19일` spring 공부 시작
-`22년 12월 23일` getmapping으로 백엔드 -> 프론트엔드 통신 공부
-`22년 12월 26일` postmapping으로 프론트 엔드 -> 백엔드 통신 공부
+**`22년 12월 19일` spring 공부 시작<br>
+`22년 12월 23일` getmapping으로 백엔드 -> 프론트엔드 통신 공부<br>
+`22년 12월 26일` postmapping으로 프론트 엔드 -> 백엔드 통신 공부<br>
 `22년 12월 29일` Fname에 값을 입력하면 select * from where Fname="입력 값"으로 출력
 `23년 1월 4일`  checkbox로 columns 필터링하고 그에 따른 select “columns” from where Fname=”입력 값” 으로 출력
 `23년 1월 11일` 새로운 직원을 Insert 하는 기능 추가
