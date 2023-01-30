@@ -26,7 +26,7 @@ React, Spring 실행
 <img src="https://velog.velcdn.com/images/opop8834/post/a725f2a7-a968-4dae-84fa-e4b476b1fce7/image.png">
 <img src ="https://velog.velcdn.com/images/opop8834/post/fd63df0c-97dc-46b0-be28-4dc29b67d985/image.png">
 >
-**Test직원 추가하기**
+Test직원 추가하기
 
 ### 결과
 <img src ="https://velog.velcdn.com/images/opop8834/post/e2e85630-6255-4521-b580-cddb659efb4c/image.png">
@@ -53,11 +53,11 @@ PK인 Ssn을 기준으로 delete 쿼리문을 실행한다.
 > ### 4. 수정하기
 <img src ="https://velog.velcdn.com/images/opop8834/post/aac5748d-b00a-456b-adfd-943711a6e76b/image.png">
 >
-**수정하기 버튼을 누르면**
+수정하기 버튼을 누르면
 >
 <img src ="https://velog.velcdn.com/images/opop8834/post/da3092b0-b3ff-4790-8148-f551839bc690/image.png">
 >
-**직접 원하는 데이터를 임의로 수정할 수 있게 된다.**
+직접 원하는 데이터를 임의로 수정할 수 있게 된다.
 >
 <img src ="https://velog.velcdn.com/images/opop8834/post/01adaffa-398d-47f4-a111-ffc5487baade/image.png">
 >
@@ -89,11 +89,11 @@ John을 Test로 바꾼 모습
 `23년 1월 18일` 검색된 직원은 checkbox columns에 맞게 출력이 되고 버튼을 누르면 직접 그 행으로 찾아간다.
 `23년 1월 19일` checkbox 모두선택 / 모두해제 기능 추가, 검색하고 난 뒤 checkbox 수정하면 출력 안되게 구현**
 
-**프론트엔드는 `React`라이브러리를 이용하였고 
-백엔드는 `Spring`프레임워크를 이용한 `JDBC`로 구현하였다.
+프론트엔드는 React라이브러리를 이용하였고 
+백엔드는 Spring프레임워크를 이용한 JDBC로 구현하였다.
 순수하게 JDBC로만 코딩을 한 것이라 가독성이 떨어지는 문제가 있는데,
-다음 프로젝트는 `Mybatis`와 `DBCP` 적용하여 비용 문제와 가독성 문제를 해결 해야겠다.
-**
+다음 프로젝트는`Mybatis와 DBCP 적용하여 비용 문제와 가독성 문제를 해결 해야겠다.
+
 
 > ###  어려웠던 점
 - 수정테이블을 구현할 때 index와 value를 각각 추출하여 `map`타입으로 만들었다.
