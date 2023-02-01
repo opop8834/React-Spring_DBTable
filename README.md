@@ -22,49 +22,49 @@ React, Spring 실행
 <img src="https://velog.velcdn.com/images/opop8834/post/7b587e85-cea0-41d7-9f5c-854aa6638985/image.png">
 
 
-> ### 1. 새로운 직원 추가하기
+### 1. 새로운 직원 추가하기
 <img src="https://velog.velcdn.com/images/opop8834/post/a725f2a7-a968-4dae-84fa-e4b476b1fce7/image.png">
 <img src ="https://velog.velcdn.com/images/opop8834/post/fd63df0c-97dc-46b0-be28-4dc29b67d985/image.png">
->
+
 Test직원 추가하기
 
 ### 결과
 <img src ="https://velog.velcdn.com/images/opop8834/post/e2e85630-6255-4521-b580-cddb659efb4c/image.png">
 
 
-> ### 2. 검색하기
+### 2. 검색하기
 <img src ="https://velog.velcdn.com/images/opop8834/post/5534b8b9-9b41-445d-b3f2-6fc050526414/image.png">
->
+
 <img src ="blob:https://velog.io/76c15271-cb9e-429d-94a3-be96272ad2e9">
->
+
 출력 화면
 Ssn은 기본적으로 포함되게 하였다.
 찾아가기 열의 클릭 버튼을 누르면 Ssn을 기준으로 
 전체 테이블에서 해당 행으로 화면 이동한다.
 
-> ### 3. 삭제하기
+### 3. 삭제하기
 <img src ="https://velog.velcdn.com/images/opop8834/post/7e196aaf-d293-47ae-abc4-07bf9be76230/image.png">
 <img src ="https://velog.velcdn.com/images/opop8834/post/485d244f-dc34-41b0-9936-e2d6c8ffce4e/image.png">
->
+
 위에서 추가했던 Test 직원이 삭제된 모습
 맨 오른쪽 열의 삭제버튼을 누르면 해당 행의 데이터가 삭제가 된다.
 PK인 Ssn을 기준으로 delete 쿼리문을 실행한다.
 
-> ### 4. 수정하기
+### 4. 수정하기
 <img src ="https://velog.velcdn.com/images/opop8834/post/aac5748d-b00a-456b-adfd-943711a6e76b/image.png">
->
+
 수정하기 버튼을 누르면
->
+
 <img src ="https://velog.velcdn.com/images/opop8834/post/da3092b0-b3ff-4790-8148-f551839bc690/image.png">
->
+
 직접 원하는 데이터를 임의로 수정할 수 있게 된다.
->
+
 <img src ="https://velog.velcdn.com/images/opop8834/post/01adaffa-398d-47f4-a111-ffc5487baade/image.png">
->
+
 John을 Test로 바꾼 모습
->
+
 이제 저장버튼을 누르고 수정 내역 반영 버튼을 누르면 Update 쿼리가 실행되고 Database에 반영이 된다.
->
+
 단 여러 데이터를 수정할 때 한번에 실행되지 않고 각각의 Update쿼리문이 실행되서 많은 비용 발생 우려
 
 <img src ="https://velog.velcdn.com/images/opop8834/post/49aba13e-a671-4c6c-b05e-5c56eb0010dd/image.png">
